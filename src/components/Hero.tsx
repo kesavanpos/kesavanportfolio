@@ -8,7 +8,7 @@ export function Hero() {
           <span className="eyebrow">SOFTWARE DEVELOPER</span>
           <h1>Building digital experiences with code.</h1>
           <p className="hero-description">
-            Hi, I'm Kesavan. A software developer with 20+ years of experience
+            Hi, I'm Kesavan. A software developer with 15 years of experience
             in web development, frontend engineering, full stack development,
             and modern JavaScript technologies.
           </p>
