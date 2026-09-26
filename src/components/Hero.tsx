@@ -14,7 +14,7 @@ export function Hero() {
           </p>
           <div className="hero-buttons">
             <a className="btn btn-primary" href="#projects">View My Projects →</a>
-            <a className="contact-link" href="/resume/kesavanresume.docx" download="kesavanresume.docx">Download Resume</a>
+            <a className="contact-link" href="/resume/Kesavan R_Resume.docx" download="Kesavan R_Resume.docx">Download Resume</a>
           </div>
           <p className="tech-note">TypeScript · JavaScript · C# · Angular · React · Node.js</p>
         </div>
