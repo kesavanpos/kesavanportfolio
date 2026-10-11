@@ -28,7 +28,7 @@ export function Hero() {
             <div><span>Core Focus</span><strong>Web Development</strong></div>
             <div><span>Primary Stack</span><strong>TypeScript / JavaScript</strong></div>
             <div><span>Frontend</span><strong>Angular / React</strong></div>
-            <div><span>Backend</span><strong>Node.js</strong></div>
+            <div><span>Backend</span><strong>.Net / Node.js /Python</strong></div>
           </div>
         </aside>
       </div>
